@@ -1,0 +1,11 @@
+Manchester,Holyhead,119.792 miles,Liverpool,34.020 miles,York,57.488 miles
+Holyhead,Manchester,120.532 miles,Carlisle,223.018 miles
+Liverpool,Manchester,34.290 miles,Carlisle,123.69 miles,York,101.154 miles
+York,Manchester,72.536 miles,Liverpool,102.193 miles,Newcastle,119.132 miles,Carlisle,116.719 miles
+Carlisle,Holyhead,223.275 miles,Liverpool,123.892 miles,York,116.719 miles,Newcastle,157.325 miles,Glasgow,96.020 miles
+Newcastle,York,117.155 miles,Carlisle,157.727 miles,Edinburgh,256.142 miles
+Glasgow,Carlisle,96.241 miles,Oban,96.907 miles,Edinburgh,46.826 miles
+Edinburgh,Newcastle,249.481 miles,Glasgow,45.995 miles,Oban,121.745 miles,Aberdeen,120.818 miles,Inverness,157.387 miles
+Oban,Glasgow,96.478 miles,Edinburgh,122.617 miles,Aberdeen,173.756 miles
+Aberdeen,Edinburgh,120.726 miles,Oban,174.060 miles,Inverness,104.288 miles
+Inverness,Edinburgh,157.580 miles,Aberdeen,104.332 miles
